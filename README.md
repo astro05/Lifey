@@ -4,19 +4,21 @@ Telemedicine platform based where patients and doctors can communicate. Find a d
 https://www.youtube.com/watch?v=wGaKaq8OkU4&t=24s
 
 
-#Tools​
-        • Brackets
-        • PHP My SQL Server
-#Frameworks​
-   Frontend
-        • HTML
-        • CSS
-        • JS
-        • Bootstrap 4
-   Backend
-        • PHP
+## Tools
+    • Brackets
+    • PHP My SQL Server
 
-#General_Features​
+## Frameworks
+   ## Frontend
+         • HTML
+         • CSS
+         • JS
+         • Bootstrap 4
+   ## Backend
+         • PHP
+
+
+## General_Features
         • Authentication System with High Encrypted Security
         • Manage Post
         • Rating and Reviews
